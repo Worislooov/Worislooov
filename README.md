@@ -44,7 +44,7 @@
 ---
 
 ### 🗺️ Моя техническая вселенная:
-[![Skill Map](https://skillicons.dev/icons?i=py,supabase,fastapi,postgres,docker,postman,latex,&theme=dark&perline=5)](https://skillicons.dev)
+[![Skill Map](https://skillicons.dev/icons?i=py,supabase,fastapi,postgres,docker,postman,latex,&theme=dark&perline=7)](https://skillicons.dev)
 
 <details>
 <summary>📌 Что за иконки?</summary>
