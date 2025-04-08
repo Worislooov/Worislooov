@@ -15,7 +15,6 @@
 
 **Backend & API**  
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
-![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=fastapi)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-090909?style=for-the-badge&logo=telegram)
 
