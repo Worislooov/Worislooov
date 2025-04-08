@@ -1,16 +1,11 @@
-<!-- Баннер с анимацией -->
-<div align="center">
-  <img src="https://ru.pinterest.com/ideas/%D1%81%D0%BC%D0%B5%D1%88%D0%BD%D1%8B%D0%B5-%D0%B3%D0%B8%D1%84%D0%BA%D0%B8/921362735680/" alt="Banner" width="100%">
-</div>
-
 <!-- Приветствие с анимацией -->
 <h1 align="center">Привет 👋, Я Лев!></h1>
 <h3 align="center">🚀 "Разнорабочий" из Москвы</h3>
 
 <!-- Социальные сети -->
 <p align="center">
-  <a href="https://t.me/Shlep0chka" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="30" width="40" />
+  <a href="https://t.me/Shlep0chka" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
 
