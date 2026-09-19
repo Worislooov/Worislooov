@@ -101,19 +101,19 @@
 ### Детальная аналитика
 
 <div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Worislooov&theme=transparent" alt="Profile Details" />
+  <img width="98%" src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile Details" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Worislooov&theme=transparent" alt="Репозитории по языкам" />
-  <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Worislooov&theme=transparent" alt="Коммиты по языкам" />
+  <img height="155" src="./profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Репозитории по языкам" />
+  <img height="155" src="./profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Коммиты по языкам" />
 </div>
 
 <div align="center">
-  <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Worislooov&theme=transparent" alt="Метрики профиля" />
-  <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Worislooov&theme=transparent&utcOffset=3" alt="Продуктивные часы" />
+  <img height="155" src="./profile-summary-card-output/transparent/3-stats.svg" alt="Метрики профиля" />
+  <img height="155" src="./profile-summary-card-output/transparent/4-productive-time.svg" alt="Продуктивные часы" />
 </div>
 
 ---
