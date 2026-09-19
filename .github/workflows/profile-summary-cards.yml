@@ -14,4 +14,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: Worislooov
+          BRANCH_NAME: main
+          UTC_OFFSET: 3
