@@ -18,7 +18,7 @@
 
 * **НИЯУ МИФИ** — Институт лазерных и плазменных технологий (ЛаПлаз)  
   *Направление:* Квантовый инжиниринг (1 курс)  
-  *Область интересов:* Численное моделирование физических систем, методы машинного обучения и анализа данных.
+  *Профиль:* Численное моделирование физических систем, методы прикладного машинного обучения и анализа данных.
 
 ---
 
@@ -60,55 +60,35 @@
 
 ---
 
-### Ключевые результаты и достижения
+### Достижения
 
-| Событие / Соревнование | Результат |
+| Соревнование | Результат |
 | :--- | :--- |
 | Nuclear IT Hack 2025 (НИЯУ МИФИ) | Победитель (1-е место) |
-| Всероссийская олимпиада DANO | Победитель в командном зачете |
+| Олимпиада по анализу данных DANO | Лучшая команда в командном зачете |
 | Хакатоны DANO | 3-е место (дважды) |
-| Олимпиада «Росатом» по математике | Призёр |
-| Идеатон НИУ ВШЭ | Призёр |
-| Кейс-чемпионат DEADLINE (2025, 2026) | Финалист |
+| Отраслевая олимпиада «Росатом» по математике | Призёр (3-е место) |
+| Идеатон НИУ ВШЭ | Призёр (2-е место) |
+| Кейс-чемпионат DEADLINE (2025, 2026) | Финалист (дважды) |
 
 ---
 
-### Статистика профиля
+### Аналитика активности
 
 <div align="center">
-  <img width="98%" src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="Детали профиля" />
+  <img width="100%" src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="Детали профиля" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="160" src="./profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Репозитории по языкам" />
-  <img height="160" src="./profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Коммиты по языкам" />
+  <img height="165" src="./profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Репозитории по языкам" />
+  <img height="165" src="./profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Коммиты по языкам" />
 </div>
 
 <div align="center">
-  <img height="160" src="./profile-summary-card-output/transparent/3-stats.svg" alt="Общая активность" />
-  <img height="160" src="./profile-summary-card-output/transparent/4-productive-time.svg" alt="Продуктивное время" />
-</div>
-
----
-
-### Детальная аналитика
-
-<div align="center">
-  <img width="98%" src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile Details" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="155" src="./profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Репозитории по языкам" />
-  <img height="155" src="./profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Коммиты по языкам" />
-</div>
-
-<div align="center">
-  <img height="155" src="./profile-summary-card-output/transparent/3-stats.svg" alt="Метрики профиля" />
-  <img height="155" src="./profile-summary-card-output/transparent/4-productive-time.svg" alt="Продуктивные часы" />
+  <img height="165" src="./profile-summary-card-output/transparent/3-stats.svg" alt="Статистика коммитов и PR" />
+  <img height="165" src="./profile-summary-card-output/transparent/4-productive-time.svg" alt="Продуктивное время" />
 </div>
 
 ---
