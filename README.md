@@ -76,24 +76,19 @@
 ### Статистика профиля
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Worislooov&theme=flat&no-frame=true&margin-w=12&row=1&column=7" alt="GitHub Trophies" />
+  <img width="98%" src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="Детали профиля" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Worislooov&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Общая статистика" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Worislooov&layout=compact&theme=transparent&hide_border=true" alt="Используемые языки" />
-  <br/>
-  <img height="165" src="https://streak-stats.demolab.com/?user=Worislooov&theme=transparent&hide_border=true" alt="Стрик активности" />
+  <img height="160" src="./profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Репозитории по языкам" />
+  <img height="160" src="./profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Коммиты по языкам" />
 </div>
 
-<br/>
-
 <div align="center">
-  <a href="https://github.com/Worislooov">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Worislooov&hide_border=true&theme=github-compact" alt="График активности" />
-  </a>
+  <img height="160" src="./profile-summary-card-output/transparent/3-stats.svg" alt="Общая активность" />
+  <img height="160" src="./profile-summary-card-output/transparent/4-productive-time.svg" alt="Продуктивное время" />
 </div>
 
 ---
